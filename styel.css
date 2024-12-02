@@ -1,0 +1,62 @@
+#all{
+    background-color: #24353F;
+}
+
+.cont{
+
+     box-shadow: 10px 10px 20px black;
+}
+.cont h2{
+    color: rgb(23, 162, 184);
+    font-size: 40px;
+    line-height: 48px;
+    font-weight: 500;
+    
+}
+input{
+    background-color: #24353F !important;
+    color: wheat;
+    width: 90%;
+
+ 
+    
+    
+}
+#inputName , #inputEmail , #inputPassword{
+    color:white;
+
+}
+input::placeholder {
+    color: white !important; 
+}
+
+p{
+    margin-top: 30px;
+ color: red;
+}
+.btn {
+   background-color: #24353F;
+   border-color: rgb(23, 162, 184);
+   color:  #17A2B8;
+     
+  }
+
+.btn:hover {
+    background-color: #17A2B8;
+    color: aliceblue;
+}
+.active{
+    display: block;
+}
+.pop{
+    color: green;
+}
+h3{
+    color: white;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
+}
